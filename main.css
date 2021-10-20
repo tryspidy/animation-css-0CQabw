@@ -1,0 +1,11 @@
+animation: name duration timing-function delay iteration-count direction fill-mode play-state;
+/* 
+name: name of the animation
+duration: amount of time it takes to complete ex: 2s
+timing-function: Specifies the speed curve of the animation ex: linear, ease, etc.
+delay:Specifies a delay before the animation will start  
+iteration-count: how many times to play the animation, ex: initial
+direction: Specifies whether or not the animation should play in reverse on alternate cycles ex:forwards, backwards, alternate, alternate-reverse
+fill-mode: Specifies what values are applied by the animation outside the time it is executing ex: none, forwards, backwards, both
+animation-play-state: Specifies whether the animation is running or paused
+*/
